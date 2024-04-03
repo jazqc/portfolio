@@ -1,0 +1,7 @@
+ /* Global styles */
+ html {
+    background-color: #fafafa; 
+    margin: 30px 30px;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+   }
